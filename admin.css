@@ -1,0 +1,77 @@
+
+div{
+  padding-bottom: 20px;
+}
+
+.mainsection{
+  width: 95.4%;
+  margin-left: 70px;
+}
+
+.vertnav{
+  height: 750px;
+  width: 70px;
+  position: relative;
+}
+
+.border{
+  border-style:solid;
+  border-width: 0.5px;
+  border-color:#d7dce1;
+}
+
+.linkshorizontal{
+  padding-top: 20px;
+  height:70px;
+  position: relative;
+  bottom: 750px;
+}
+
+.navhorizontal{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 17px;
+  color: black;
+}
+
+.smartphone{
+  position: fixed;
+  top: 150px;
+  height: 450px;
+  right: 250px;
+}
+
+.lifetime{
+  position: relative;
+  bottom: 20px;
+  padding-left: 20px;
+  height: 70px;
+  padding-top: 15px;
+  font-weight: bolder;
+  bottom:770px
+}
+
+.mainlinks{
+  position: relative;
+  bottom: 770px;
+  background-color: #E8E8E8;
+}
+
+.question{
+  position: relative;
+  top: 550px;
+  left: 15px;
+  color: grey;
+}
+.announce{
+  position: relative;
+  top: 600px;
+  right: 18px;
+  color: grey;
+}
+.user{
+  position: relative;
+  top: 630px;
+  left: 15px;
+  color: rgb(57, 224, 155);
+}

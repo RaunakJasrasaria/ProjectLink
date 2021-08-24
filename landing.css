@@ -1,0 +1,43 @@
+.adminHeader{
+  text-align: center;
+  padding-top: 1.5%;
+  padding-bottom: 1%;
+  font-weight: bold;
+}
+img{
+  height: 90px;
+  width: auto;
+}
+.links{
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+.buttons{
+  display: block;
+  width: 100%;
+  max-width: 676px;
+  vertical-align: middle;
+  margin: 0px auto;
+  margin-bottom: 15px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border: 2px solid rgb(57, 224, 155);
+  background-color: rgb(57, 224, 155);
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+}.buttons:hover{
+  background-color: white;
+  color: rgb(57, 224, 155);
+}
+.footer{
+  position: fixed;
+  bottom: 1.8%;
+  left: 47.5%;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-family: sans-serif;
+}
